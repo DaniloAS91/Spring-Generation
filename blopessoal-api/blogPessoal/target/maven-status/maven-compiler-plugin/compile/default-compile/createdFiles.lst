@@ -1,0 +1,15 @@
+org\generation\blogPessoal\seguranca\BasicSecurityConfig.class
+org\generation\blogPessoal\controller\TemaController.class
+org\generation\blogPessoal\seguranca\UserDetailsServiceImpl.class
+org\generation\blogPessoal\repository\PostagemRepository.class
+org\generation\blogPessoal\repository\TemaRepository.class
+org\generation\blogPessoal\controller\PostagemController.class
+org\generation\blogPessoal\model\Usuario.class
+org\generation\blogPessoal\model\UserLogin.class
+org\generation\blogPessoal\model\Postagem.class
+org\generation\blogPessoal\seguranca\UserDetailsImpl.class
+org\generation\blogPessoal\service\UsuarioService.class
+org\generation\blogPessoal\repository\UsuarioRepository.class
+org\generation\blogPessoal\BlogPessoalApplication.class
+org\generation\blogPessoal\controller\UsuarioController.class
+org\generation\blogPessoal\model\Tema.class
